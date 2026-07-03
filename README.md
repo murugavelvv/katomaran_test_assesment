@@ -1,8 +1,8 @@
 # Tichi QA Internship Assignment
 
-This repository contains my QA internship assignment for the Tichi web application.
+This repository contains my QA assignment for the Tichi web application.
 
-The project covers manual testing, defect reporting, and Playwright automation for the Login functionality.
+The Assignment covers manual testing, defect reporting, and Playwright automation for the Login functionality.
 
 ## Application
 
